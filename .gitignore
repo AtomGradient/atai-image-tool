@@ -44,7 +44,6 @@ env/
 
 # Project specific
 llm-combined-files.txt
-*.txt
 
 # Mac OS
 .DS_Store
