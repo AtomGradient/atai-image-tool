@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="atai-image-tool",
-    version="0.0.1",
+    version="0.0.2",
     author="AtomGradient",
     author_email="alex@atomgradient.com",
     description="Extract text from images using OCR and save to JSON or print to console",
